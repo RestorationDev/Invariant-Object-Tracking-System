@@ -8,6 +8,7 @@ This project demonstrates a robust object tracking system capable of tracking a 
 	•	Motion & Rotation Invariance: Ensures consistent tracking performance even under challenging motion scenarios.
 
  Live Demos
+ 
 	1.	Real-Time Tracking Video
 A video showcasing the system’s live tracking capabilities, utilizing optical flow
 
