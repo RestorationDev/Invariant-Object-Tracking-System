@@ -18,7 +18,8 @@ https://github.com/user-attachments/assets/b228447a-0ab0-4551-9001-19539a165d5b
 
 
 	2.	Precision Tracking Video
-A video demonstrating the precision tracking system using CoTracker
+A video demonstrating the precision tracking system using CoTracker 
+(An especially strong example to show stronger invariance to motion and color similarities)
 Watch Precision Tracking Video
 
 https://github.com/user-attachments/assets/9cdb41dc-54bc-463d-bf70-267c52a1a755
